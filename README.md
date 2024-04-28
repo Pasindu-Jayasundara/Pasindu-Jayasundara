@@ -1,11 +1,8 @@
 <div>
   <p align="center">
       <b>
-        <p align="center">
-          
-          <em>GitHub Stats:</em>
-        </p>
-          <hr/>
+          <em><u>GitHub Stats:</u></em>
+          <br/>
       </b> 
       <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Jayasundara" alt="GitHub Stats" /> 
