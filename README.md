@@ -12,7 +12,7 @@
 
 <div>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Jayasundara&layout=compact" height="195"/> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Jayasundara&show_icons=true&include_all_commits=true" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Jayasundara&layout=compact" height="150"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Jayasundara&show_icons=true&include_all_commits=true" height="150"/> 
   </p>
 </div>
