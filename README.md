@@ -9,12 +9,9 @@
   </p>
 </div>
 
-
-
-
 <div>
   <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Jayasundara&layout=compact" height="200"/> 
     <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Jayasundara&show_icons=true&include_all_commits=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Jayasundara&layout=compact" /> 
   </p>
 </div>
