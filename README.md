@@ -1,7 +1,7 @@
 <div>
   <p align="center">
       <b>
-          <em><u>GitHub Stats:</u></em>
+          <em>GitHub Stats:</em>
           <br/>
       </b> 
       <br/>
