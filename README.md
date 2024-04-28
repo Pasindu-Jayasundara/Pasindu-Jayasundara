@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-      <b>
+      <b align="center">
           <em>GitHub Stats:</em>
           <hr/>
       </b> 
