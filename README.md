@@ -17,16 +17,4 @@
   </p>
 </div>
 
-### My WakaTime Stats 📊:
 
-<!--START_SECTION:Pasindu-Jayasundara-->
-```text
-Week: 07 January, 2021 - 14 January, 2021
-
-HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-<!--END_SECTION:Pasindu-Jayasundara-->
-
-<div align="center">
