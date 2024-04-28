@@ -1,7 +1,10 @@
 <div>
   <p align="center">
-      <b align="center">
+      <b>
+        <p align="center">
+          
           <em>GitHub Stats:</em>
+        </p>
           <hr/>
       </b> 
       <br/>
