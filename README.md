@@ -2,6 +2,7 @@
   <p align="center">
       <b>
           <em>GitHub Stats:</em>
+        ---
       </b> 
       <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Jayasundara" alt="GitHub Stats" /> 
