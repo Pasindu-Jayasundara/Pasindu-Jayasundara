@@ -13,6 +13,6 @@
 <div>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Jayasundara&layout=compact" height="170"/> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Jayasundara&show_icons=true&include_all_commits=true" height="170"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Jayasundara&theme=default&show_icons=true&count_private=true" height="170"/>
   </p>
-</div>
+</div> 
