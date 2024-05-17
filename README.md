@@ -6,6 +6,8 @@
       </b> 
       <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Jayasundara" alt="GitHub Stats" /> 
+    ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Jayasundara)
+
       <br/><br/>
   </p>
 </div>
