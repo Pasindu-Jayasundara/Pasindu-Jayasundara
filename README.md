@@ -4,8 +4,6 @@ Interests and Expertise 🚀<br>
 Full-Stack Development | Mobile App Development | Software Appication Development | Web Application Development | Build Management | Clean Code Principles
 Agile Software Development 
 Open to learning and applying cutting-edge technologies.
-
-<br/>
 <p>
 <img src="https://komarev.com/ghpvc/?username=Pasindu-Jayasundara&color=lightgrey&abbreviated=true"/>
     <a href="mailto:pasindujayasundara28@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
