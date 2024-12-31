@@ -4,12 +4,13 @@ Interests and Expertise 🚀<br>
 Full-Stack Development | Mobile App Development | Software Appication Development | Web Application Development | Build Management | Clean Code Principles
 Agile Software Development 
 Open to learning and applying cutting-edge technologies.
+
+<br/>
 <p>
 <img src="https://komarev.com/ghpvc/?username=Pasindu-Jayasundara&color=lightgrey&abbreviated=true"/>
     <a href="mailto:pasindujayasundara28@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://www.linkedin.com/in/pasindu-jayasundara/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-<br>
 <hr>
 <br>
 <div>
@@ -27,6 +28,8 @@ Open to learning and applying cutting-edge technologies.
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-Jayasundara&theme=github-compact&hide_border=true&bg_color=ffffff&area=true"/>
   </p>
 </div>
+<br>
+<br>
 
 <!--tech stack icons-->
 <p align="center">
@@ -57,6 +60,7 @@ Open to learning and applying cutting-edge technologies.
     <img src="https://skillicons.dev/icons?i=kali&theme=light" width="29"/>
     <img src="https://skillicons.dev/icons?i=linux&theme=light" width="29"/>
 </p>
+<br>
 
 <div>
   <p align="center">
