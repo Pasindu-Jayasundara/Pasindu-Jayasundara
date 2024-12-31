@@ -1,15 +1,8 @@
+With over 2 years of freelancing experience as a Software Developer, I specialize in full-stack development. I have a strong foundation in teamwork, and Clean Code principles. I am committed to continuous improvement and innovation, and have recently expanded my expertise to several fields
 
-
-With 8+ years of professional experience as a Software Developer, I am:
-
-A <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java expert and <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast, specializing in backend development and build management.
-A fast learner, always eager to explore emerging technologies and adapt to change.
-A proponent of agile software development, teamwork, and Clean Code principles, with a focus on continuous improvement and innovation.
-I excel at balancing perfectionism with pragmatism, questioning the status quo, and thinking outside the box. Recently, I've been expanding my skill set into people management and <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20"> Angular development.
-
-Interests and Expertise 🚀
-Backend Development | Build Management | Clean Code Evangelist
-Agile Software Development | Test-Driven Development (TDD)
+Interests and Expertise 🚀<br>
+Full-Stack Development | Mobile App Development | Software Appication Development | Web Application Development | Build Management | Clean Code Principles
+Agile Software Development 
 Open to learning and applying cutting-edge technologies.
 
 <br/>
@@ -20,7 +13,6 @@ Open to learning and applying cutting-edge technologies.
 </p>
 <br>
 <hr>
-<br>
 <br>
 <div>
   <p align="center">
