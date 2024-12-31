@@ -1,8 +1,7 @@
 With over 2 years of freelancing experience as a Software Developer, I specialize in full-stack development. I have a strong foundation in teamwork, and Clean Code principles. I am committed to continuous improvement and innovation, and have recently expanded my expertise to several fields
 
-Interests and Expertise 🚀<br>
-Full-Stack Development | Mobile App Development | Software Appication Development | Web Application Development | Build Management | Clean Code Principles
-Agile Software Development 
+<b>Interests and Expertise </b>🚀<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=13&duration=4900&pause=100&color=0A8319&multiline=true&width=435&height=120&lines=%F0%9F%8E%AF+Full-Stack+Development;%F0%9F%8E%AF+Mobile+App+Development;%F0%9F%8E%AF+Software+Application+Development;%F0%9F%8E%AF+Web+Application+Development;%F0%9F%8E%AF+Build+Management;%F0%9F%8E%AF+Clean+Code+Principles" alt="Typing SVG" /></a>
 Open to learning and applying cutting-edge technologies.
 
 <br/>
