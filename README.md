@@ -15,6 +15,7 @@
 </div>
 
 
+<iframe src="https://api.badgr.io/public/assertions/7YW6P3vzRJC_FUdsryWuyA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pasindubathiya28%40gmail.com" title="Badge: GenAI 101 with Pieces" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
 <!--tech stack icons-->
 <p align="center">
