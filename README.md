@@ -10,7 +10,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Jayasundara&layout=compact" height="170"/><br/>
     <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Jayasundara&theme=default&show_icons=true&count_private=true" height="170"/>
     <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-Jayasundara&theme=github-compact&hide_border=true&bg_color=ffffff&area=true"/>
   </p>
 </div>
 
