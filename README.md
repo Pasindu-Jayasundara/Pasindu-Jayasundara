@@ -1,4 +1,4 @@
-With over 2 years of freelancing experience as a Software Developer, I specialize in full-stack development. I have a strong foundation in teamwork, and Clean Code principles. I am committed to continuous improvement and innovation, and have recently expanded my expertise to several fields
+With over 2 years of freelancing experience as a Software Developer, I specialize in full-stack development. I have a strong foundation in teamwork and Clean Code principles. I am committed to continuous improvement and innovation, and have recently expanded my expertise into several fields
 
 <b>Interests and Expertise </b>🚀<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=13&duration=4000&pause=90&color=0A8319&multiline=true&width=435&height=120&lines=%F0%9F%8E%AF+Full-Stack+Development;%F0%9F%8E%AF+Mobile+App+Development;%F0%9F%8E%AF+Software+Application+Development;%F0%9F%8E%AF+Web+Application+Development;%F0%9F%8E%AF+Build+Management;%F0%9F%8E%AF+Clean+Code+Principles" alt="Typing SVG" /></a>
