@@ -1,7 +1,7 @@
 With over 2 years of freelancing experience as a Software Developer, I specialize in full-stack development. I have a strong foundation in teamwork and Clean Code principles. I am committed to continuous improvement and innovation, and have recently expanded my expertise into several fields
 
 <b>Interests and Expertise </b>🚀<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=13&duration=4000&pause=90&color=0A8319&multiline=true&width=435&height=120&lines=%F0%9F%8E%AF+Full-Stack+Development;%F0%9F%8E%AF+Mobile+App+Development;%F0%9F%8E%AF+Software+Application+Development;%F0%9F%8E%AF+Web+Application+Development;%F0%9F%8E%AF+Build+Management;%F0%9F%8E%AF+Clean+Code+Principles" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=15&duration=4000&pause=90&color=0A8319&multiline=true&width=435&height=120&lines=%F0%9F%8E%AF+Full-Stack+Development;%F0%9F%8E%AF+Mobile+App+Development;%F0%9F%8E%AF+Software+Application+Development;%F0%9F%8E%AF+Web+Application+Development;%F0%9F%8E%AF+Build+Management;%F0%9F%8E%AF+Clean+Code+Principles" alt="Typing SVG" /></a>
 <br>
 Open to learning and applying cutting-edge technologies.
 
@@ -38,27 +38,27 @@ Open to learning and applying cutting-edge technologies.
       <br/>
       <br/>
     </b> 
-    <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=java&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=react&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=php&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=jquery&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=arduino&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=firebase&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=flutter&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=dart&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=git&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=github&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=html&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=css&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=figma&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=postman&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=kali&theme=light" width="29"/>
-    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="29"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=java&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=react&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=php&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=jquery&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=arduino&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=firebase&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=flutter&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=dart&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=git&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=html&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=css&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=figma&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=postman&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=kali&theme=light" width="30"/>
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="30"/>
 </p>
 <br>
 
