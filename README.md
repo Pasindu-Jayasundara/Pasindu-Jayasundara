@@ -64,6 +64,19 @@ Open to learning and applying cutting-edge technologies.
 <div>
   <p align="center">
     <b>
+      <em>Badges</em>
+      <br/>
+    </b> 
+    <br/>
+    <img src="https://holopin.me/pasindujayasundara"/>
+  </p>
+</div>
+
+<br>
+
+<div>
+  <p align="center">
+    <b>
       <em>Trophies:</em>
       <br/>
     </b> 
